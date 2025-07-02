@@ -23,9 +23,9 @@ def save_data(data):
         json.dump(data, f, indent=2, ensure_ascii=False)
 
 # Endpoints
-@app.get("/")
-def read_all():
-    return load_data()
+#@app.get("/")
+#def read_all():
+    #return load_data()
 
 @app.get("/{key}")
 def read_item(key: str):
