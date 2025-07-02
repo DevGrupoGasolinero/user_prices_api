@@ -1,0 +1,43 @@
+{
+  "3812": {
+    "archivo": "resources/listaGasolineras_Carlos.txt",
+    "nombre": "Carlos"
+  },
+  "9274": {
+    "archivo": "resources/listaGasolineras_Ana_Belem.txt",
+    "nombre": "Ana Belem"
+  },
+  "HGUUGUGDSFUGDG": {
+    "archivo": "resources/listaGasolineras_Blanca.txt",
+    "nombre": "Blanca"
+  },
+  "7156": {
+    "archivo": "resources/listaGasolineras_Elda.txt",
+    "nombre": "Elda"
+  },
+  "6382": {
+    "archivo": "resources/listaGasolineras_Grethel.txt",
+    "nombre": "Grethel"
+  },
+  "8420": {
+    "archivo": "resources/listaGasolineras_Huautla.txt",
+    "nombre": "Huautla"
+  },
+  "4931": {
+    "archivo": "resources/listaGasolineras_Rocío.txt",
+    "nombre": "Rocío"
+  },
+  "2763": {
+    "archivo": "resources/listaGasolineras_Vicenta.txt",
+    "nombre": "Vicenta"
+  },
+  "default": {
+    "archivo": "resources/listaGasolineras.txt",
+    "nombre": "Marío"
+  },
+  "5687": {
+    "archivo": "resources/listaGasolineras.txt",
+    "nombre": "Juan"
+  }
+
+}
