@@ -214,14 +214,14 @@
     "nombre": "María(Norte)",
     "gaolineras": [
       {
-        "Ciénega Flores PL/6970/EXP/ES/2015":["19", "012", "PL/6970/EXP/ES/2015"],
+        "Ciénega Flores PL-6970-EXP-ES-2015":["19", "012", "PL/6970/EXP/ES/2015"],
         "competencias":[
           ["19", "012", "PL/6791/EXP/ES/2015"],
           ["19", "012", "PL/2814/EXP/ES/2015"]
         ]
       },
       {
-        "Monterrey PL/6972/EXP/ES/2015":["19", "039", "PL/6972/EXP/ES/2015"],
+        "Monterrey PL-6972-EXP-ES-2015":["19", "039", "PL/6972/EXP/ES/2015"],
         "competencias":[
           ["19", "039", "PL/8081/EXP/ES/2015"],
           ["19", "039", "PL/6941/EXP/ES/2015"],
